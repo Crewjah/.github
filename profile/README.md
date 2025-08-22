@@ -36,7 +36,7 @@ Whether you’re a student, beginner, or contributor — there’s a place for y
 
 Follow these steps to become part of our community:  
 
-1. Read our **[Contributing Guidelines](https://github.com/Crewjah/CODE_OF_CONDUCT.md)**  
+1. Read our **[Contributing Guidelines](https://github.com/Crewjah/.github/blob/main/CODE_OF_CONDUCT.md)**  
 2. **Join the GitHub Organization** → [Raise an invite issue here](https://github.com/Crewjah/Support/issues/new?labels=invite+me+to+the+community&template=invitation.yml)  
 3. **New to GitHub?** Start [here](https://docs.github.com/get-started/quickstart) with beginner-friendly resources  
 4. Find **good first issues** to start contributing  
