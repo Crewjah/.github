@@ -4,10 +4,9 @@
 <img src="https://raw.githubusercontent.com/Crewjah/.github/refs/heads/main/profile/Crewjah-logo.jpg#gh-dark-mode-only" alt="Crewjah Logo" width="150"/><br>
 
 <!-- Join Badge -->
-<a href="https://github.com/Crewjah/Support/issues/new?assignees=&labels=invite+me+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+the+Crewjah+GitHub+Community+Organization">
-  <img src="https://img.shields.io/badge/Join%20Crewjah%20Organization%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey">
-
-</a> 
+<a href="https://github.com/Crewjah/Support/issues/new?labels=invite+me+to+the+community&template=invitation.yml">
+  <img src="https://img.shields.io/badge/Join%20Crewjah%20Organization-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey">
+</a>
 
 # 👋 Welcome to Crewjah  
 
@@ -37,9 +36,9 @@ Whether you’re a student, beginner, or contributor — there’s a place for y
 
 Follow these steps to become part of our community:  
 
-1. Read our **[Contributing Guidelines](https://github.com/Crewjah/Support/blob/main/CONTRIBUTING.md)**  
-2. **Join the GitHub Organization** → [Raise an invite issue here](https://github.com/Crewjah/Support/issues/new?assignees=&labels=invite+me+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+the+Crewjah+GitHub+Community+Organization)  
-3. **New to GitHub?** Start [here](https://docs.github.com/en/get-started) with beginner-friendly resources  
+1. Read our **[Contributing Guidelines](https://github.com/Crewjah/Support/blob/main/CODE_OF_CONDUCT.md)**  
+2. **Join the GitHub Organization** → [Raise an invite issue here](https://github.com/Crewjah/Support/issues/new?labels=invite+me+to+the+community&template=invitation.yml)  
+3. **New to GitHub?** Start [here](https://docs.github.com/get-started/quickstart) with beginner-friendly resources  
 4. Find **good first issues** to start contributing  
 
 ---
