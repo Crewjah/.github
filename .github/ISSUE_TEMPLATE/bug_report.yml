@@ -1,0 +1,36 @@
+name: "Bug report"
+description: "Report a bug to help us improve."
+title: "[BUG] <describe the bug>"
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Thank you for helping us improve! Please fill out the details below."
+  - type: input
+    id: summary
+    attributes:
+      label: "Bug summary"
+      description: "A clear and concise description of what the bug is."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to reproduce"
+      description: "How can we reproduce the bug?"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected behavior"
+      description: "What did you expect to happen?"
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: "Environment details"
+      description: "OS, browser, device, or other relevant info."
+    validations:
+      required: false
