@@ -9,10 +9,10 @@
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Crewjah&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
-    <a href="https://github.com/Crewjah?tab=stars">
+    <a href="https://github.com/Crewjah?tab=stars" title="GitHub Stars">
       <img src="https://img.shields.io/github/stars/Crewjah?label=GitHub%20Stars&style=social" alt="GitHub Stars"/>
     </a>
-    <a href="https://github.com/Crewjah">
+    <a href="https://github.com/Crewjah" title="GitHub Followers">
       <img src="https://img.shields.io/github/followers/Crewjah?style=social" alt="GitHub Followers"/>
     </a>
   </p>
